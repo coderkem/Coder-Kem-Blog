@@ -1,0 +1,9 @@
+---
+title: "My New Post"
+author: "Coder Kem"
+date: "2025-09-20"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+Hello there! My name is Coder Kem and this is my first blog post!
